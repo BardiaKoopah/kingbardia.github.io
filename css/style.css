@@ -537,4 +537,10 @@ footer {
   border: 0;
 }
 
-
+.projects-note {
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  font-style: italic;
+}
